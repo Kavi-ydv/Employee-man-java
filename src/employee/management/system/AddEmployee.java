@@ -36,7 +36,7 @@ public class AddEmployee extends JFrame implements ActionListener{
         tfname.setBounds(200, 150, 150, 30);
         add(tfname);
 
-        JLabel labelfname = new JLabel("Father's Name");
+        JLabel labelfname = new JLabel("Fathers's Name");
         labelfname.setBounds(400, 150, 150, 30);
         labelfname.setFont(new Font("serif", Font.PLAIN, 20));
         add(labelfname);
